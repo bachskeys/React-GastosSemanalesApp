@@ -1,11 +1,15 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import Gasto from './Gasto';
 
 export default class listado extends Component {
   render() {
     return (
       <div className='gastos-realizados'>
           <h2>Listado</h2>
-           {console.log(this.props.gastos)}
+          {Object.keys(this.props.gastos).map((key,i)=>(<Gasto
+           key={key}
+           gasto={this.props.gastos[key]}
+          />))}
       </div>
     )
   }
