@@ -1,13 +1,13 @@
 {
-  "main.css": "/GastosReactAppPage/static/css/main.cad990cf.chunk.css",
-  "main.js": "/GastosReactAppPage/static/js/main.2699e718.chunk.js",
-  "main.js.map": "/GastosReactAppPage/static/js/main.2699e718.chunk.js.map",
-  "static/js/1.168c889c.chunk.js": "/GastosReactAppPage/static/js/1.168c889c.chunk.js",
-  "static/js/1.168c889c.chunk.js.map": "/GastosReactAppPage/static/js/1.168c889c.chunk.js.map",
-  "runtime~main.js": "/GastosReactAppPage/static/js/runtime~main.ec3b80c5.js",
-  "runtime~main.js.map": "/GastosReactAppPage/static/js/runtime~main.ec3b80c5.js.map",
-  "static/css/main.cad990cf.chunk.css.map": "/GastosReactAppPage/static/css/main.cad990cf.chunk.css.map",
-  "index.html": "/GastosReactAppPage/index.html",
-  "precache-manifest.173d6cec4f6bc0bdd5121890fb8dc404.js": "/GastosReactAppPage/precache-manifest.173d6cec4f6bc0bdd5121890fb8dc404.js",
-  "service-worker.js": "/GastosReactAppPage/service-worker.js"
+  "main.css": "/React-GastosSemanalesApp/static/css/main.cad990cf.chunk.css",
+  "main.js": "/React-GastosSemanalesApp/static/js/main.25a27f3c.chunk.js",
+  "main.js.map": "/React-GastosSemanalesApp/static/js/main.25a27f3c.chunk.js.map",
+  "static/js/1.168c889c.chunk.js": "/React-GastosSemanalesApp/static/js/1.168c889c.chunk.js",
+  "static/js/1.168c889c.chunk.js.map": "/React-GastosSemanalesApp/static/js/1.168c889c.chunk.js.map",
+  "runtime~main.js": "/React-GastosSemanalesApp/static/js/runtime~main.ebe1dbc2.js",
+  "runtime~main.js.map": "/React-GastosSemanalesApp/static/js/runtime~main.ebe1dbc2.js.map",
+  "static/css/main.cad990cf.chunk.css.map": "/React-GastosSemanalesApp/static/css/main.cad990cf.chunk.css.map",
+  "index.html": "/React-GastosSemanalesApp/index.html",
+  "precache-manifest.03ab0680ec95cbf9f3fec68539739d7d.js": "/React-GastosSemanalesApp/precache-manifest.03ab0680ec95cbf9f3fec68539739d7d.js",
+  "service-worker.js": "/React-GastosSemanalesApp/service-worker.js"
 }
